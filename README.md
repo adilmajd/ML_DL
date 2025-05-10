@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Réalisé par :EL MAJDOUBI Adil & OUAHMANE Abdalla</p>
+<p align="left">Réalisé par :EL MAJDOUBI Adil & OUAHMANE Abdallah</p>
 <p align="left">Encadé par : Pr .MAHMOUDI Abdelhak</p>
 
 
